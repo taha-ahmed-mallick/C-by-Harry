@@ -14,3 +14,13 @@ All about operators, how type-casting and conversion works, and indepth rules fo
 ## Chap-3
 Switching and conditioning. Making program that runs when specific condition are met.
 Practice set gave some additional knowledge.
+
+## Chap-4
+Introduced concept of loops.
+<ul>
+<li>FOR loop</li>
+<li>WHILE loop</li>
+<li>DO WHILE loop</li>
+</ul>
+<b>break</b> and <b>continue</b> statements and their uses.
+And to top it all alot of practice.
