@@ -17,10 +17,13 @@ Practice set gave some additional knowledge.
 
 ## Chap-4
 Introduced concept of loops.
-<ul>
-<li>FOR loop</li>
-<li>WHILE loop</li>
-<li>DO WHILE loop</li>
-</ul>
-<b>break</b> and <b>continue</b> statements and their uses.
+- FOR loop
+- WHILE loop
+- DO WHILE loop
+
+**break** and **continue** statements and their uses.
 And to top it all alot of practice.
+
+## Chap-5
+Learned another important concept of functions, and their implementation. Also grasped more advanced concept of recursion and the algorithims that utilizes it.
+1. problem5 discusses an important paradox.
